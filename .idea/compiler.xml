@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="eureka-parent" />
         <module name="eureka-server" />
+        <module name="product-server" />
       </profile>
     </annotationProcessing>
   </component>
